@@ -1,0 +1,8 @@
+
+DEFINICIÓN DEL UNIVERSO DEL DISCURSO
+La aplicación sirve de soporte a un sistema de juegos gratis en línea. Para poder realizar la publicidad de un juego, los usuarios deben estar registrados en el sitio y hay diferentes tipos de usuarios (competidores, socializados, etc.)
+Los juegos se organizan en categorías, por ejemplo (juegos de acción, autos, aventuras, didácticos, etc.) las que pueden variar con el tiempo, agregándose nuevas o quitando algunas. Las categorías tienen asociado además un nivel de juego (inicial, intermedio, avanzado, etc).
+ Los juegos son jugados por varios usuarios, los cuales pueden recomendar estos juegos a otros a fin de permitir incrementar la popularidad. En cada uno de los juegos es permitido realizar comentarios con el fin de intercambiar información entre usuarios, luego estos comentarios son presentados cronológicamente junto a la información del juego. 
+También se permite votar en cada uno de los juegos para incrementar su popularidad y no puede ser modificado ni borrado una vez efectuado. Solo los usuarios que han jugado tendrán la opción de votar y recomendar un juego en particular.
+Los juegos de determinadas categorías pueden tener diferentes niveles: principiante, intermedio, avanzado, experto (o algunos de estos). Por razones estratégicas, definidas por los patrocinadores del sitio, se rotulan los comentarios publicados por usuarios que están en diferentes niveles, para un determinado juego, de manera que puedan ser recuperados rápidamente.
+El sitio a tomar como ejemplo es http://www.adondejuegos.com, siempre teniendo en cuenta que la funcionalidad requerida se limita a la especificada en este enunciado.
