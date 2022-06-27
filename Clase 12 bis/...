@@ -1,0 +1,6 @@
+## IMPORTACIÓN DE DATOS
+
+
+En muchas situaciones, por no decir en la mayoría de los casos, la carga de registros en una o más tablas de una base de datos representa parte de un proceso de importación.
+Los sistemas o motores de DB generalmente prestan servicio a aplicaciones desarrolladas a medida (software), como sistema de almacenamiento de la información. Generalmente estos sistemas de software deben interactuar con otros sistemas de gestión de terceras partes, como por ejemplo sistemas de Administración Pública, entre otros.
+Para llevar adelante el proceso de intercambio de información, Mysql nos provee un set de herramientas mediante la línea de comandos. Como también a través de Mysql Workbench, nos permiten trabajar con información (o registros), que pueden ser importados desde una fuente externa.
