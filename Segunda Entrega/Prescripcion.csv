@@ -1,0 +1,16 @@
+﻿Id_Prescripcion,Id_Paciente,Categoria,Dias,Nombre_medicina,Id_medicina
+21,44078271,1,7,Simvastatina,123
+22,39176910,3,7,Aspirina,124
+23,35636435,2,3,Omeprazol ,125
+24,24830714,2,3,Lexotiroxina sódica,126
+25,38808700,3,2,Ramipril,127
+26,39079582,4,2,Amlodipina,128
+27,31625890,2,2,Paracetamol ,129
+28,39073352,3,2,Aciclovir,130
+29,26313777,4,7,Adalimumab,131
+30,44083765,4,2,Adapaleno,132
+31,29446854,4,4,Calcitriol,133
+32,40802037,4,3,Butorphanol,134
+33,42909655,3,14,Dinoprostone,135
+34,44146810,3,2,Dinutuximab,136
+35,41019500,1,2,Etodolaco,137
