@@ -34,3 +34,26 @@ create or replace view cita_paciente as select a.Id_Cita, a.Id_Paciente, a.Id_Me
 p.Teléfono, a.Fecha_Cita from cita a inner join paciente p on a.Id_Paciente = p.Id_Paciente;
 
 select * from cita_paciente;
+
+/*Order by View*/
+/*Lo que se busca hacer es darle un orden a la consulta anterior por edad*/
+create or replace view ordenado_por_edad as select 
+a.Id_Cita, a.Id_Paciente, a.Id_Medico, p.Nombre, p.Edad, p.Mail,
+p.Teléfono, a.Fecha_Cita from cita a inner join paciente p on a.Id_Paciente = p.Id_Paciente
+order by edad desc;
+
+select * from ordenado_por_edad;
+
+/*Consultas*/
+select * from medicina;
+select * from prescripcion;
+
+/*Vamos a crear una vista que solo nos muestre las prescripciones urgentes
+Y la vamos a unir con la tabla de pacientes para que nos traiga los datos de contacto del paciente
+y poder avisarle que su prescripcion es de caracter urgente*/
+
+create or replace view urgente as select 
+u.Id_Prescripcion, u.Id_Paciente, u.Categoria, u.Dias, u.Nombre_medicina, p.Mail,
+p.Teléfono from prescripcion u inner join paciente p on u.Id_Paciente = p.Id_Paciente
+order by edad desc;
+select * from urgente;
