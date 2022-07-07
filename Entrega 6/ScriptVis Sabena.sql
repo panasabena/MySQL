@@ -55,5 +55,5 @@ y poder avisarle que su prescripcion es de caracter urgente*/
 create or replace view urgente as select 
 u.Id_Prescripcion, u.Id_Paciente, u.Categoria, u.Dias, u.Nombre_medicina, p.Mail,
 p.Teléfono from prescripcion u inner join paciente p on u.Id_Paciente = p.Id_Paciente
-order by edad desc;
+where Categoria like ('%Urgente%');
 select * from urgente;
