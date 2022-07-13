@@ -19,3 +19,20 @@ end //
 delimiter ;
 
 Select tipo_cita ('I');
+
+/*Funcion que devuelve si es propenso o no a tener enfermedades de acuerdo a la edad*/
+delimiter //
+DROP function IF EXISTS `propenso`;
+create function propenso(edad int)
+returns char(255)
+begin
+	declare numero char(255);
+    if (edad) > 40 then
+		return concat('La edad de ', edad, ' es propenso a tener más enfermedades');
+    else
+		return concat ('La edad de', edad, ' no es tan propenso a tener enfermedades');
+	end if;
+end//
+delimiter ;
+
+select propenso(25);
