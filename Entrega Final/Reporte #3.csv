@@ -1,0 +1,2 @@
+Id_Medico,Nombre,Edad,Telefono_medico,Especialidad,Email_medico,Id_Cita,Id_Paciente,Fecha_Cita,Hora_Cita,Id_Medico,Categoria,Descripcion
+9,Metrodora,41,596,Dermatologia,Metr_metrodora@hotmail.com,506,39176910,7/22/2022,"8:00:00 AM",9,Leve,"Below the national average"
