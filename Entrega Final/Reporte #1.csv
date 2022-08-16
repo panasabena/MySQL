@@ -1,0 +1,6 @@
+Id_Cita,Id_Paciente,Fecha_Cita,Hora_Cita,Id_Medico,Categoria,Descripcion
+506,39176910,7/22/2022,"8:00:00 AM",9,Leve,"Below the national average"
+509,38808700,6/29/2022,"12:00:00 PM",14,Leve,"Below the national average"
+512,39073352,8/7/2022,"3:00:00 PM",11,Leve,"Not Available"
+517,42909655,8/9/2022,"4:30:00 PM",3,Leve,"Not Available"
+518,44146810,7/20/2022,"1:00:00 PM",2,Leve,"Not Available"
