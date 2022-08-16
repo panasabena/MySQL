@@ -1,0 +1,3 @@
+Id_Cita,Id_Paciente,Fecha_Cita,Hora_Cita,Id_Medico,Categoria,Descripcion
+505,44078271,7/7/2022,"8:00:00 AM",8,Urgente,"Below the national average"
+506,39176910,7/22/2022,"8:00:00 AM",9,Leve,"Below the national average"
