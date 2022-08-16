@@ -1,0 +1,15 @@
+Id_Medico,Nombre,Edad,Telefono_medico,Especialidad,Email_medico,Id_Cita,Id_Paciente,Fecha_Cita,Hora_Cita,Id_Medico,Categoria,Descripcion
+1,"Alexander Fleming",25,596,Bacteriologia,Alex_fleming@hotmail.com,519,41019500,7/21/2022,"2:00:00 PM",1,Urgente,"Not Available"
+2,"Edward Jenner",52,596,Traumatologia,Edwa_jenner@hotmail.com,518,44146810,7/20/2022,"1:00:00 PM",2,Leve,"Not Available"
+3,"William Osler",32,596,Traumatologia,Will_osler@hotmail.com,517,42909655,8/9/2022,"4:30:00 PM",3,Leve,"Not Available"
+4,Hipocrates,34,596,Deportologia,Hipo_hipocrates@hotmail.com,516,40802037,8/8/2022,"6:15:00 PM",4,"No importante","Not Available"
+6,"Louis Pasteur",54,596,Quimico/Bacteriologo,Loui_pasteur@hotmail.com,514,44083765,8/23/2022,"5:00:00 PM",6,"No importante","Not Available"
+7,"Elizabeth Blackwell",40,596,Obstetra,Eliz_blackwell@hotmail.com,513,26313777,7/7/2022,"4:00:00 PM",7,"No importante","Not Available"
+8,"Merit ptah",42,596,Dermatologia,Meri_ptah@hotmail.com,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+9,Metrodora,41,596,Dermatologia,Metr_metrodora@hotmail.com,506,39176910,7/22/2022,"8:00:00 AM",9,Leve,"Below the national average"
+10,Galeno,50,543,Kinesiologia,Gale_galeno@hotmail.com,507,35636435,7/28/2022,"8:30:00 AM",10,Importante,"Same as the national average"
+11,Avicenna,51,596,Odontologia,Avic_avicenna@hotmail.com,512,39073352,8/7/2022,"3:00:00 PM",11,Leve,"Not Available"
+12,Paracelso,27,549,Toxicologia,Para_paracelso@hotmail.com,511,31625890,8/3/2022,"2:00:00 PM",12,Importante,"Same as the national average"
+13,"Joseph Lister",28,596,Bacteriologia,Jose_lister@hotmail.com,510,39079582,7/14/2022,"1:00:00 PM",13,"No importante","Not Available"
+14,"Jhon Snow",30,596,Traumatologia,Jhon_snow@hotmail.com,509,38808700,6/29/2022,"12:00:00 PM",14,Leve,"Below the national average"
+15,"Rene Laennec",62,596,Cardiologia,Rene_laennec@hotmail.com,NULL,NULL,NULL,NULL,NULL,NULL,NULL
