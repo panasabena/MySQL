@@ -1,0 +1,2 @@
+Id_Paciente,Mail,Teléfono,Edad,Nombre,Id_Cita,Id_Paciente,Fecha_Cita,Hora_Cita,Id_Medico,Categoria,Descripcion
+41019500,Maldonado_maldonado@hotmail.com,4556,23,"MALDONADO ABRIL",519,41019500,7/21/2022,"2:00:00 PM",1,Urgente,"Not Available"
